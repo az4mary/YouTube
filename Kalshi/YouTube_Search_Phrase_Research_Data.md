@@ -1,0 +1,64 @@
+Notion link: https://app.notion.com/p/3b97cd6557c4806393d4c2ee9b30d740
+
+Last edited in Notion: Oct 20, 2026
+
+| **Search Rank #** | **Search Phrase** | **Channel Name** | **Subscribers Count** | **Video Title** | **Upload Date** | **Purpose** | **Format** | **View Count** | **Likes Count** | **Comment Count** | **Video length (min)** | **Content Type** | **Hook/Angle** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Kalshi | @markusmarkets | 1,100 | **This kalshi strategy method is so simple, but it’s surprisingly one of the biggest mistakes people** | May 12, 2026 | Kalshi Strategy | Short | 67,000 | 1,700 | 34 | 1:50 | Strategy  | Trading Psychology |
+| 2 | Kalshi | **@NBCBayArea** | 395,000 | **What is Kalshi and why is it so controversial?** | **Sep 2, 2026** | News | Video | **18,623** | 60 | 29 | 3:20 | News
+Controversy | News Angle
+Gambling
+Risky |
+| 3 | Kalshi | **@PredictionMarketTrader** | 5,010 | **Kalshi Explained (Step-by-Step Trading Guide)** | **Jan 14, 2026** | Kalshi Platform and Trading Concept general overview in 17 minutes | Video | 35,642 | 589 | 54 | 16:20 | Tutorial
+Beginner | Educational |
+| 4 | Kalshi | **@TCTrading** | 59,700 | **Kalshi Tutorial For Beginners 2026** | **May 24, 2026** | Kalshi Account setup, Platform and Trading Concept general overview in 17 minutes | Video | **103,699** | 1,200 | 99 | 16:41 | Tutorial
+Beginner | Educational |
+| 5 | Kalshi | **@cmattdowns** | 4,300 | **Kalshi NFL Strategy: The Bet That Wins 87% of the Time** | **Aug 20, 2026** | Game Bet and Prediction on Kalshi Explained | Video | **29,143** | 251 | 25 | 11:24 | Strategy | Trading Tool Ad |
+| 6 | Kalshi | @PhilipDeFranco | 6,650,000 | **New York Sues Kalshi for $36 Billion** | **Aug 3, 2026** | Info | Short | 150,000 | 7,100 | 370 | 1:16 | Info
+Lawsuit | Info
+ |
+| 7 | Kalshi | **@champtgram** | 195,000 | **How To Make $500/Day Trading Polymarket/Kalshi (FULL GUIDE)** | **Mar 17, 2026** | Arbitrage Tool for Kalshi + Polymarket marketing video | Video | **149,569** | 3,300 | 235 | 18:47 | Strategy | Discord Channel and Trading Tool Ad |
+| 8 | Kalshi | @NBCNews | 12,200,000 | **Kalshi permanently bans George Santos** | Aug 31, 2026 | News | Short | 223,000 | 867 | 216 | 0:52 | News
+Info | News Angle |
+| 9 | Kalshi | @NBCNewYork | 823,000 | **New York sues prediction market platform Kalshi alleging ‘illegal gambling operation '| NBC New York** | Jul 31, 2026 | News | Short | 3,700 | 47 | 5 | 1:10 | News
+Lawsuit | News Angle |
+| 10 | Kalshi | **@TheActionNetwork** | 84,600 | **Kalshi Explained: The Tool That Every Sports Bettor Needs!** | Sep 1, 2026 | Kalshi Platform and Trading concept explained in 15 minutes | Video | 7,692 | 68 | 1 | 14:18 | Tutorial
+Beginner | Educational |
+| **Search Rank #** | **Search Phrase** | **Channel Name** | **Subscribers Count** | **Video Title** | **Upload Date** | **Purpose** | **Format** | **View Count** | **Likes Count** | **Comment Count** | **Video length (min)** | **Content Type** | **Hook/Angle** |
+| 1 | prediction markets tutorial | **@DGFantasy** | 43,800 | **Prediction Markets for Dummies | 101 Tutorial on How to use Kalshi & Polymarket** | **Jan 30, 2026** | Arbitrage tool marketing video.
+Prediction Markets Strategy on Kalshi and Polymarket | Video | **23,832** | 286 | 26 | 14:59 | Strategy | Trading Tool Ad |
+| 2 | prediction markets tutorial | **@RobinhoodApp** | 81,400 | **Prediction Markets Explained: How Event Contracts Work | Robinhood Answers** | **Mar 20, 2026** | Prediction Market Trading on Robinhood platform explained | Video | **20,345** | 305 | 45 | 13:12 | Tutorial
+Beginner | Educational |
+| 3 | prediction markets tutorial | **@champtgram** | 195,000 | **How to ACTUALLY Profit on Polymarket/Kalshi (FULL GUIDE)** | **Feb 15, 2026** | Discord channel marketing video. Prediction market Trading strategies to use on Kalshi | Video | **59,868** | 1,800 | 152 | 19:57 | Strategy | Discord Channel and Trading Tool Ad |
+| 4 | prediction markets tutorial | **@champtgram** | 195,000 | **How to ACTUALLY Trade Polymarket (FULL BEGINNERS GUIDE)** | **Jan 20, 2026** | Discord channel marketing video. Prediction market Trading strategies and tools to use on Polymarket | Video | **84,677** | 2,900 | 193 | 26:21 | Strategy | Discord Channel and Trading Tool Ad |
+| 5 | prediction markets tutorial | **@CryptoGorilla** | 86,200 | **Polymarket for Beginners 2026: Everything You Need to Know** | **Apr 3, 2026** | Account setup and Prediction markets trading explained on Polymarket platform | Video | **59,837** | 1,200 | 217 | 20:32 | Tutorial
+Beginner | Educational |
+| 6 | prediction markets tutorial | **@CryptoGorilla** | 86,200 | **The Easiest Way To Day Trade Crypto using Kalshi Perpetuals** | **Jul 15, 2026** | Kalshi sponsored 6 minutes video.  Kalshi Account setup, Perps account opening, crypto trading on Kalshi explained | Video | **37,030** | 784 | 55 | 5:58 | Tutorial
+Beginner | Educational
+Sponsored |
+| 7 | prediction markets tutorial | **@cmattdowns** | 4,300 | **Kalshi Strategy: Copy The Whales, Don't Gamble (Most People Get This Wrong)** | **Jun 17, 2026** | Whale watch tool marketing video and how to use on Kalshi, kalshi $10 sigup code | Video | **48,075** | 666 | 89 | 10:28 | Strategy | Trading Tool Ad |
+| 8 | prediction markets tutorial | **@JuicedBets** | 8,500 | **I Found an Arbitrage Tool for Prediction Markets (Kalshi & Polymarket)** | **Jul 8, 2026** | Arbs Arbitrage tool marketing video and how to use on Kalshi and Polymarket | Video | **10,358** | 203 | 62 | 15:19 | Strategy | Trading Tool Ad |
+| 9 | prediction markets tutorial | **@AlexCarterTrading** | 16,600 | **How I Built a Profitable Kalshi AI Trading Bot Using Claude** | **Aug 15, 2026** | Bot marketing video and how to use on Kalshi, Kalshi $500 Prediction signup bonus, Kalshi $25 Perps signup bonus  | Video | **6,592** | 120 | 9 | 10:53 | Strategy | Trading Bot Ad |
+| 10 | prediction markets tutorial | **@christophe** | 416,000 | **Prediction markets are a trap** | **Jun 17, 2026** | incogni sponsored video, marketing video for newpress, Info of prediction markets trading on Kalshi and Polymarkets | Video | **748,469** | 19,000 | 983 | 17:26 | Info
+Controversy | Analysis
+POV
+Sponsored |
+| **Search Rank #** | **Search Phrase** | **Channel Name** | **Subscribers Count** | **Video Title** | **Upload Date** | **Purpose** | **Format** | **View Count** | **Likes Count** | **Comment Count** | **Video length (min)** | **Content Type** | **Hook/Angle** |
+| 1 | polymarket tutorial | **@CryptoGorilla** | 86,200 | **How to Trade on Polymarket (Complete Beginner Guide)** | **Nov 11, 2025** | Prediction Market on Polymarket explained | Video | **149,783** | 3,500 | 381 | 17:34 | Tutorial
+Beginner | Educational |
+| 2 | polymarket tutorial | **@pantheonx_ed** | 487 | **📊 Polymarket Tutorial for Beginners - Complete Platform Walkthrough 🚀** | **May 11, 2026** | Polymarket platform setup and trading explained | Video | **1,246** | 17 | 6 | 13:02 | Tutorial
+Beginner | Educational |
+| 3 | polymarket tutorial | **@pantheonx_mark** | 463 | **🎁 Polymarket Beginners Guide: Everything You Need to Know in 2026** | **Aug 31, 2026** | Polymarket platform setup and trading explained | Video | **486** | 1 | 1 | 5:55 | Tutorial
+Beginner | Educational |
+| 4 | polymarket tutorial | **@champtgram** | 195,000 | **How To Make $600/Day Trading Polymarket/Kalshi (FULL GUIDE)** | **May 12, 2026** | Prediction market tools marketing video and how to use them on Polymarket and Kalshi  | Video | **23,666** | 786 | 120 | 2:05:14 | Strategy | Discord Channel and Trading Tool Ad |
+| 5 | polymarket tutorial | **@oddsjambets** | 38,500 | **Polymarket Explained in 5 Minutes (Finally Makes Sense)** | **Jan 27, 2026** | Polymarket trading and platform explained | Video | **10,862** | 94 | 12 | 5:17 | Tutorial
+Beginner | Educational |
+| 6 | polymarket tutorial | **@janeal_FnFD** | 1,610 | **Polymarket Strategy: I Turned a $800 Bonus Code Into Real Profit (Polymarket Tutorial)** | **Sep 15, 2026** | 1 minute video on how to get $800 Bonus on Predicet.cc | Video | **7,181** | 6 | 1 | 1:00 | How-to | Platform Ad |
+| 7 | polymarket tutorial | **@DGFantasy** | 43,800 | **How To Trade Sports for Profit on Polymarket** | **Feb 27, 2026** | Prediction market tools marketing video and how to use them on Polymarket | Video | **10,845** | 104 | 15 | 8:54 | Tutorial
+Beginner | Educational |
+| 8 | polymarket tutorial | **@pantheonx_ed** | 487 | **🚀How to Sign Up on Polymarket — Full Tutorial + Make Money From News🚀** | **Aug 31, 2026** | Polymarket platform setup and trading explained | Video | **391** | 2 | 1 | 6:34 | Tutorial
+Beginner | Educational |
+| 9 | polymarket tutorial | **@champtgram** | 195,000 | **How To Make $500/Day Trading Polymarket/Kalshi (FULL GUIDE)** | **Mar 17, 2026** | Arbitrage Tool for Kalshi + Polymarket marketing video | Video | **149,569** | 3,300 | 235 | 18:47 | Strategy | Discord Channel and Trading Tool Ad |
+| 10 | polymarket tutorial | **@CryptoHype** | 21,800 | **Polymarket Bitcoin UP/DOWN Strategy:The $20 Betting Method Creating Millionaires (Full COURSE!)** | **Dec 11, 2025** | Prediction market Trading on Polymarket explained | Video | **21,112** | 215 | 6 | 16:00 | Strategy | Private Trading Group Ad |
+
+**Competitor_Landscape_Map**
