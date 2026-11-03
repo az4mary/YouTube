@@ -1,142 +1,351 @@
-Mapping Video #1's content onto that five-part format:
+# Video #1: YouTube Search Intent & Keyword Research Plan
 
-**Intro**
-The hook: you click "buy," and something that didn't exist as a shipped object an hour ago is at your door by morning. Pose the real question — how is that physically possible across hundreds of miles in under a day?
+Excellent. We'll use your selected production identity as the foundation for Video #1.
 
-**The problem**
-Getting a physical object from a warehouse shelf to a specific doorstep hundreds of miles away, in under 24 hours, reliably, at a cost low enough that the company can call it "free shipping." That's a genuinely hard constraint-satisfaction problem — speed, distance, and cost all pulling against each other — and most viewers have never thought about it as a problem at all.
+For the audience, I recommend curious adults interested in how everyday things work, rather than limiting ourselves to a narrow age group. That's a good fit for both long-form documentaries and Shorts, although the viewer's intent differs:
 
-**How the system solves it**
-This is the bulk of the video — the three-act relay I outlined: smart warehouse routing and robotic picking → the overnight hub-and-spoke sort network and why it specifically runs at night → last-mile route optimization solving a live "traveling salesman problem" for every driver, every day. This section is where the actual mechanics live.
+- Long videos: People want a complete explanation, an interesting story, or a deeper understanding.
+- Shorts: People want a quick answer, a surprising fact, or an explanation of something they hadn't considered.
 
-**A surprising detail**
-The reveal that the "magic" last mile is actually the most expensive and least efficient leg of the entire journey — one truck, one driver, dozens of stops — versus the hyper-efficient overnight flight carrying thousands of packages at once. The part that *feels* most high-tech (same-day delivery) is propped up by the part that's least optimized (a guy in a truck), and "free shipping" is one of the most heavily subsidized illusions in retail.
+The two formats can target the same broad audience while using different hooks and search phrases.
 
-**Outro**
-Close on the cost reality — what this entire 24-hour relay actually costs the retailer to run per package — and a line that reframes the viewer's relationship to that "free" button: nothing about this was free, it was just invisible to you.
+## 1. What We Need to Establish Before Writing the Script
 
+For Video #1, I want to identify three types of search intent.
 
-# VIDEO #1 SCRIPT
-**"The 24-Hour Relay: How a Package Actually Beats the Clock"**
-*Estimated runtime: ~12-13 minutes*
+| Search intent | What viewers want                                                   | How we use it                         |
+| ------------- | ------------------------------------------------------------------- | ------------------------------------- |
+| Primary       | Understand how next-day delivery works                              | Main topic and title                  |
+| Secondary     | Understand warehouse robots, package sorting, and shipping networks | Sections and supporting keywords      |
+| Discovery     | Learn surprising facts about delivery costs and logistics           | Hooks, Shorts, and supporting content |
 
----
+We shouldn't simply insert popular keywords into the narration.
 
-## [1] INTRO — 0:00–0:45
+The search data should help us choose the topic framing, title, opening hook, and what viewers expect to learn.
 
-**[VISUAL: Close-up on a finger tapping "Buy Now" on a phone screen. Cut to a clock graphic starting at 0:00:00.]**
+The script itself should still sound natural.
 
-**NARRATION:**
-It's 9:47 PM. You just bought something online. You didn't think twice about it — you clicked a button, closed the app, and went to bed.
+## 2. Initial YouTube Search Intent Questions
 
-**[VISUAL: Time-lapse clock spinning forward. Cut to a doorstep, a package appearing.]**
+These are the questions I want to investigate using YouTube search analytics.
 
-By 9:15 the next morning, it's sitting on your doorstep.
+### Group A: Core topic (highest priority)
 
-**[VISUAL: Pull back from the doorstep to a wide satellite-style map view, showing a glowing line stretching from a warehouse hundreds of miles away to the house.]**
+These directly describe the video's subject.
 
-Nothing about that is normal. Twelve hours ago, that box didn't exist. The item was sitting on a shelf in a building you've never seen, in a city you've probably never been to. And somehow, between then and now, it crossed hundreds of miles, passed through the hands — and machines — of dozens of strangers, and arrived exactly where you live.
+| ID | Search query / question                             | Priority |
+| -- | --------------------------------------------------- | -------- |
+| A1 | How does next day delivery work?                    | Highest  |
+| A2 | How does overnight shipping work?                   | Highest  |
+| A3 | How do packages get delivered overnight?            | Highest  |
+| A4 | How does a package get from warehouse to doorstep?  | High     |
+| A5 | How does package delivery work?                     | High     |
+| A6 | How does Amazon delivery work?                      | High     |
+| A7 | How do online orders get delivered?                 | High     |
+| A8 | How do shipping companies deliver packages so fast? | High     |
 
-We call this "next-day delivery" like it's simple. It is not simple. It's one of the most quietly complicated logistics operations human beings have ever built — and almost nobody who uses it every week has any idea how it actually works.
+My initial preference: A1, A3, and A8 are especially relevant to our documentary concept.
 
-So let's take that one package, and follow it.
+We should distinguish next-day delivery from overnight shipping in the research and script. These terms overlap in everyday usage but aren't always operationally identical.&#x20;
 
----
+[image](https://www.google.com/s2/favicons?domain=https://www.fedex.com\&sz=32)
 
-## [2] THE PROBLEM — 0:45–2:15
+FedEx+1
 
-**[VISUAL: Split screen — a map showing distance, a stopwatch, and a dollar sign, all competing/pulling against each other.]**
 
-**NARRATION:**
-Here's the actual engineering problem hiding behind that "Buy Now" button: move a physical object, from a specific point A to a specific point B, potentially hundreds of miles apart — in under 24 hours — reliably, for millions of packages a day — at a cost low enough that the company can call it "free."
 
-Those four constraints fight each other constantly. Speed costs money. Distance costs time. And reliability — doing this correctly, at this scale, every single day — is the hardest constraint of all, because the system can't just work *most* of the time. If it fails even half a percent of the time, that's still tens of thousands of broken promises a day.
+### Group B: Behind-the-scenes curiosity
 
-**[VISUAL: Zoom out on a rough US map, showing thousands of dots lighting up — simulating order volume.]**
+These are potentially excellent discovery queries because they express curiosity about invisible processes.
 
-This isn't a problem one truck, or one warehouse, or one clever algorithm can solve on its own. It takes an entire relay — three separate systems, each solving a different piece of the puzzle, handing the package off to the next one like a baton. And the first leg of that relay starts the second you hit "buy."
+| ID | Search query / question                            | Priority |
+| -- | -------------------------------------------------- | -------- |
+| B1 | What happens after you order something online?     | Highest  |
+| B2 | What happens to your package after you order?      | Highest  |
+| B3 | How do warehouses process millions of packages?    | High     |
+| B4 | How do package sorting centers work?               | High     |
+| B5 | How do packages get sorted automatically?          | High     |
+| B6 | How do delivery companies track packages?          | High     |
+| B7 | How do packages travel across the country?         | High     |
+| B8 | How do packages move through distribution centers? | Medium   |
 
----
+### Group C: Warehouse and robotics
 
-## [3] HOW THE SYSTEM SOLVES IT — 2:15–9:30
+These queries relate to the first major section of our video.
 
-### 3a. The Warehouse (2:15–4:30)
+| ID | Search query / question                     | Priority |
+| -- | ------------------------------------------- | -------- |
+| C1 | How do warehouse robots work?               | High     |
+| C2 | How do Amazon warehouse robots work?        | High     |
+| C3 | How do automated warehouses work?           | High     |
+| C4 | How do warehouse robots pick orders?        | Medium   |
+| C5 | How do fulfillment centers work?            | High     |
+| C6 | How does an Amazon fulfillment center work? | High     |
 
-**[VISUAL: Interior of a massive fulfillment center. Orange mobile robots gliding under shelving pods.]**
+### Group D: Overnight transportation and sorting
 
-**NARRATION:**
-Your order doesn't go to "a warehouse." It goes to a very specific one — chosen in milliseconds, based on which facility has your item in stock *and* sits closest to your delivery address, because every extra mile at this stage compounds down the line.
+These relate to the middle of our video.
 
-Inside that building, a robot — not a person — usually finds your item first. In the most advanced fulfillment centers, the shelves themselves move. A mobile robot slides underneath an entire pod of shelving, lifts it slightly off the ground, and carries the whole thing to a human picker standing at a fixed station. The person never walks to the product. The product walks to the person.
+| ID | Search query / question                                  | Priority |
+| -- | -------------------------------------------------------- | -------- |
+| D1 | How do packages travel overnight?                        | Highest  |
+| D2 | How do cargo planes transport packages?                  | High     |
+| D3 | How do shipping hubs work?                               | High     |
+| D4 | How do parcel sorting facilities work?                   | High     |
+| D5 | Why do packages go through multiple sorting centers?     | Medium   |
+| D6 | How do logistics companies transport packages overnight? | High     |
 
-**[VISUAL: A picker scanning an item, placing it on a conveyor.]**
+### Group E: Last-mile delivery and surprising facts
 
-The picker scans it, drops it in a tote, and from that moment, the item is no longer "inventory" — it's a package with a destination and a deadline. It's about to get its first clue of where it's going: which outbound truck, headed to which regional hub, needs to leave in the next window to keep your 24-hour promise alive.
+These are especially useful for the final revelation and Shorts.
 
-### 3b. The Overnight Network (4:30–7:15)
+| ID | Search query / question                             | Priority |
+| -- | --------------------------------------------------- | -------- |
+| E1 | Why is last mile delivery so expensive?             | Highest  |
+| E2 | What is last mile delivery?                         | High     |
+| E3 | How do delivery drivers plan their routes?          | High     |
+| E4 | How do delivery route optimization algorithms work? | Medium   |
+| E5 | Why does shipping cost so much?                     | High     |
+| E6 | Why is free shipping not really free?               | High     |
+| E7 | How much does it cost to deliver a package?         | High     |
 
-**[VISUAL: Night-time aerial shot of a massive sorting facility, dozens of planes lined up on a tarmac.]**
+## 3. Initial Keyword List for Analytics
 
-**NARRATION:**
-Here's something most people never think about: an enormous amount of this entire system runs almost entirely at night.
+Here is the keyword list I want you to test first.
 
-That's not an accident — it's a constraint turned into a strategy. Airspace is less congested overnight. Landing slots are cheaper. Roads are empty, so ground transport between hubs moves faster. And critically, this is the *only* window where a package can realistically travel hundreds of miles and still be sorted and out for delivery by the next morning.
+These are research candidates, not yet selected final keywords.
 
-**[VISUAL: Conveyor belt system, packages sliding past a barcode scanner, automatically diverting onto different chutes.]**
+Core keywords
 
-So your package arrives at a regional sort facility sometime after midnight — one of dozens, sometimes hundreds, of these buildings that most people drive past without a second glance. Inside, a conveyor system reads the barcode on your box in a fraction of a second and automatically diverts it onto the correct chute — one of potentially thousands of possible destinations — based purely on the zip code, with no human decision involved.
+Priority 1
 
-From there, it's loaded onto a delivery truck or a short connecting flight, and it begins its final leg before sunrise.
+how next day delivery works
 
-### 3c. The Last Mile (7:15–9:30)
+how overnight shipping works
 
-**[VISUAL: A delivery driver's handheld scanner showing a route map with dozens of stops.]**
+how packages get delivered
 
-**NARRATION:**
-By morning, your package has already completed the easy part.
+how package delivery works
 
-The last few miles — from the local delivery depot to your actual front door — are, counterintuitively, the hardest and most expensive leg of the entire journey. One truck. One driver. Dozens, sometimes over a hundred, individual stops, each one requiring the vehicle to actually stop, park, and have a human being walk to a door.
+how packages travel overnight
 
-**[VISUAL: Overhead animated map showing a truck's route rearranging itself into an efficient loop.]**
+how Amazon delivery works
 
-To make that work at all, the driver's route isn't just a list — it's the output of an algorithm solving one of the oldest, hardest problems in computer science: given dozens of stops, what is the single most efficient order to visit all of them? That's a version of the "traveling salesman problem," and these companies run it fresh, every single morning, recalculating in real time as new stops get added throughout the day.
+how shipping works
 
-**[VISUAL: Truck pulling up, driver walking to the door, dropping the package.]**
+package delivery explained
 
-And then — the handoff ends. The relay is over. The box that started as a scanned barcode on a shelf six hundred miles away is now sitting on your doorstep.
+Supporting keywords
 
----
+Priority 2
 
-## [4] A SURPRISING DETAIL — 9:30–11:15
+automated warehouses
 
-**[VISUAL: Split-screen comparison — left side shows a packed cargo plane (labeled "thousands of packages"), right side shows a single delivery truck (labeled "one truck, dozens of stops").]**
+warehouse robots
 
-**NARRATION:**
-Here's the part that should bother you a little, in a good way: the leg of the journey that *feels* the most high-tech — same-day, next-morning delivery, like something out of science fiction — is actually propped up by the least efficient part of the whole system.
+fulfillment centers
 
-A single overnight flight can move tens of thousands of packages at once, for pennies per package. A single delivery truck moves, at best, a few hundred — and it's the most expensive mile-for-mile leg in the entire chain, because it requires a dedicated human being and a dedicated vehicle for every single neighborhood, every single day.
+package sorting facility
 
-**[VISUAL: Dollar signs stacking up disproportionately on the "last mile" side.]**
+distribution center
 
-Industry estimates put the last mile at well over half the total cost of shipping a package — sometimes significantly more — even though it covers a tiny fraction of the total distance the box traveled. The thousand-mile flight across the country is, proportionally, almost free. The final half-mile to your door is the expensive part.
+overnight delivery network
 
-Which means that "free shipping" button you clicked? It was never free. The cost didn't disappear — it was just absorbed, quietly, somewhere between the warehouse and your welcome mat.
+logistics explained
 
----
+last mile delivery
 
-## [5] OUTRO — 11:15–12:30
+Curiosity / discovery keywords
 
-**[VISUAL: Pull back to the doorstep shot from the intro — the package sitting there, same as before, but now with the full relay map overlaid faintly behind it.]**
+Priority 3
 
-**NARRATION:**
-So the next time a package shows up at your door the morning after you ordered it, you'll know what actually happened behind that one click: a robot found it on a shelf, a nighttime network of planes and conveyor belts moved it hundreds of miles while you slept, and one driver, running an algorithm most people have never heard of, found the fastest way to get it those last few hundred feet.
+what happens after you order online
 
-It's not magic. It's a twelve-hour relay race, run by machines and people you'll never see, for a prize you'll never think twice about.
+how packages travel across the country
 
-**[VISUAL: Fade to black. End card with subscribe prompt and a teaser thumbnail for the next episode — "Next time: how your phone's components crossed 12 countries before it reached your hands."]**
+why is last mile delivery so expensive
 
-That's how a package beats the clock. Next time — we follow something even stranger: how the phone in your pocket became a world traveler before you ever touched it.
+how delivery drivers plan routes
 
----
+how Amazon packages get delivered
 
-**[END SCRIPT — approx. 1,850 words / ~12-13 min at natural narration pace]**
+how shipping companies deliver packages so fast
+
+These will help us identify whether the best framing is:
+
+- Next-day delivery
+- Overnight shipping
+- Package delivery
+- Amazon logistics
+- Behind-the-scenes logistics
+
+We should let the analytics inform this choice rather than assume one is better.
+
+# 4. Exactly What You Should Collect From YouTube Analytics Tools
+
+For the best results, I recommend using vidIQ or TubeBuddy, whichever you already have access to.
+
+If you have both, we can compare their scores, but we don't need to purchase both just for this project.
+
+## A. Keyword metrics I need
+
+For each keyword, please report:
+
+| Metric                      | Importance | Why I need it                                               |
+| --------------------------- | ---------- | ----------------------------------------------------------- |
+| Search volume               | Very high  | Estimates demand                                            |
+| Competition                 | Very high  | Helps assess ranking difficulty                             |
+| Overall keyword score       | High       | Useful as a preliminary screening metric                    |
+| Related keyword suggestions | Very high  | Helps discover better search phrases                        |
+| Search trend                | High       | Helps identify growing or declining interest                |
+| Search results relevance    | Very high  | Determines whether viewers actually want our type of video  |
+| Top-ranking video views     | High       | Helps identify successful content                           |
+| Top-ranking video age       | High       | Helps assess whether the topic continues attracting viewers |
+| Top-ranking video title     | High       | Helps us understand successful topic framing                |
+
+Important: Keyword scores from different tools aren't directly interchangeable. If you report vidIQ scores, include the tool name. Don't combine its score with TubeBuddy's score as though they use the same scale.
+
+## B. What I want you to investigate on YouTube itself
+
+For the strongest keywords, please also examine the first page of YouTube search results.
+
+For each search query, ideally report:
+
+- Titles of the first 5–10 relevant videos
+- View counts
+- Upload dates
+- Channel subscriber counts, if available
+- Whether the results are Shorts or long videos
+- Whether the videos are documentaries, tutorials, animations, or simple explanations
+- Whether any videos have unusually high views relative to their channel size
+
+This is important because a keyword can have decent search volume but poor relevance to our intended documentary format.
+
+For example, viewers searching for "overnight shipping" may be looking for a shipping service or price quote, rather than an explanation of how the logistics network works.
+
+We need to distinguish those intentions.
+
+# 5. The Data Format I Want You to Return
+
+The easiest way is to return the results in an Excel spreadsheet or CSV.
+
+I recommend two sheets.
+
+## Sheet 1: Keyword Research
+
+Use these columns:
+
+| Column          | Example                             |
+| --------------- | ----------------------------------- |
+| Search Query    | how next day delivery works         |
+| Search Volume   | Tool's reported value               |
+| Competition     | Tool's reported value               |
+| Keyword Score   | Tool's reported score               |
+| Trend           | Rising / Stable / Declining         |
+| Search Intent   | Educational / Commercial / Mixed    |
+| Relevant Videos | Number of relevant results observed |
+| Notes           | Anything unusual                    |
+
+## Sheet 2: Top Ranking Videos
+
+Use these columns:
+
+| Column         | Description                                 |
+| -------------- | ------------------------------------------- |
+| Search Query   | Keyword used                                |
+| Video Title    | Exact title                                 |
+| Channel        | Channel name                                |
+| Views          | Current view count                          |
+| Upload Date    | Publication date                            |
+| Subscribers    | Channel subscriber count                    |
+| Video Duration | Length                                      |
+| Format         | Documentary / animation / tutorial / Shorts |
+| Relevance      | High / Medium / Low                         |
+
+If exporting to Excel is inconvenient, you can paste the results directly into this conversation.
+
+# 6. A More Efficient Research Workflow
+
+I don't want you spending hours analyzing 30 keywords individually.
+
+Let's narrow the research in three stages.
+
+Phase 1
+
+Core keyword screening
+
+Test the 8 primary queries from Group A.
+
+Identify the 3–5 strongest opportunities based on search demand, competition, and relevance.
+
+Phase 2
+
+Related keyword discovery
+
+Use the strongest keywords to generate additional suggestions.
+
+Check Groups B–E and identify unexpected opportunities.
+
+Phase 3
+
+Competitor and title analysis
+
+Analyze the top-ranking videos for the 3–5 strongest queries.
+
+Identify successful formats, viewer expectations, title patterns, and content gaps.
+
+This should give us enough information to make an informed decision without unnecessary research.
+
+# 7. One Additional Analytics Question That Matters
+
+If your analytics tool supports it, please investigate:
+
+Are viewers searching for "how next-day delivery works" actually finding educational videos, or are they mostly finding commercial shipping services?
+
+This is a critical distinction.
+
+Our video is not selling shipping services.
+
+It is explaining the hidden logistics system behind modern delivery.
+
+The title should attract the right viewer, not simply the largest possible number of searches.
+
+# 8. What I Will Do With Your Results
+
+Once you provide the analytics, I'll use them to make these decisions:
+
+| Decision           | What the data will determine                  |
+| ------------------ | --------------------------------------------- |
+| Primary keyword    | Best-supported search phrase                  |
+| Secondary keywords | Supporting search terms                       |
+| Video title        | Search relevance + curiosity                  |
+| Thumbnail concept  | Strongest visual curiosity hook               |
+| Opening narration  | Match viewer expectations immediately         |
+| Script content     | Include the questions viewers care about most |
+| Section priorities | Give more attention to relevant topics        |
+| Shorts topics      | Select the strongest standalone discoveries   |
+| Video description  | Naturally incorporate relevant keywords       |
+
+We'll also keep a distinction between search optimization and recommendation-driven viewing.
+
+Search data helps us understand demand and intent. It doesn't guarantee views, and search volume alone isn't a complete measure of YouTube opportunity.
+
+For a documentary like this, we also need a compelling title, thumbnail, opening, and strong audience retention.
+
+## 9. My Final Research Request to You
+
+Please return these four things
+
+1\. Keyword metrics for the 8 core queries in Group A.
+
+2\. The top 10–20 related keyword suggestions from your tool.
+
+3\. Top-ranking video information for the 3–5 strongest keywords.
+
+4\. Any additional search phrases your tool identifies as promising.
+
+My preferred delivery format: Upload an Excel or CSV file directly here. Screenshots are fine too, especially if they show the keyword score and search volume clearly.
+
+Once I have those results, we can make the title and topic framing decisions based on actual analytics instead of guessing.
+
+The next deliverable will be Video #1's optimized production script, built around verified information, real search intent, a strong documentary narrative, and opportunities for 3–5 Shorts.
