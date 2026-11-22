@@ -44,7 +44,14 @@ I have also deliberately avoided making the introduction itself the place where 
 
 # Introduction — Why Constitutional Accountability Matters
 
+# **COLD OPEN MONTAGE**
+The cold open is designed to create tension before introducing the title.
 
+No narration initially. Archival audio and sound design lead of public figures, government officers, constitutional experts/politicians. This montage is not a random collection of dramatic clips. It establishes the history of impeachment of Trump, the political stakes, present-day voices calling for impeachment and the unresolved question.
+
+The montage precedes the title and narration. It remains an essential part of Video 0, not a discarded element from the original trailer.
+
+---
 
 America's constitutional system was built on a fundamental principle: **no person is above the law, including the President of the United States.**
 
@@ -319,6 +326,15 @@ It is about constitutional accountability.
 
 **That is the constitutional roadmap.**
 
+[TITLE SEQUENCE — END]
+THE CONSTITUTIONAL ROADMAP
 
+How Trump Can Be Removed from Office this time — Through the Constitution
+
+FIVE EPISODES. ONE CONSTITUTIONAL QUESTION.
+
+FOLLOW THE EVIDENCE.
+
+Odd Wiring
 
 *End of Introduction*
