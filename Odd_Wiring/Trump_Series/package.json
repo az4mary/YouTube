@@ -1,13 +1,12 @@
 {
-  "name": "trump-series-orchestrator",
+  "name": "trump-series-search",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "models": "node perplexity_orchestrator.js --list-models",
-    "chat": "node perplexity_orchestrator.js"
+    "search": "node perplexity_search.js"
   },
   "dependencies": {
-    "openai": "^7.65.0"
+    "@perplexity-ai/perplexity_ai": "^0.45.0"
   }
 }

@@ -1,6 +1,6 @@
-# Perplexity Orchestrator
+# Perplexity Search API
 
-This folder was empty, so this is a small reusable JavaScript integration and CLI for the Perplexity Orchestrator API. It uses the official OpenAI SDK with Chat Completions at `https://api.perplexity.ai/orchestrator/v1`; it does not use the Perplexity SDK and does not add web grounding.
+This folder contains a small JavaScript client and CLI for Perplexity's Search API. It returns ranked web results as JSON for your code to process; it does not generate an LLM answer.
 
 ## Setup
 
@@ -12,19 +12,11 @@ $env:PERPLEXITY_API_KEY = [System.Net.NetworkCredential]::new("", $key).Password
 npm install
 ```
 
-List the model IDs returned for this key and usage tier:
+## Search
 
 ```powershell
-npm run models
+npm run search -- "latest stable Python release"
+npm run search -- --max-results 5 "latest stable Python release"
 ```
 
-Set `PERPLEXITY_MODEL` to an exact ID from that output. The integration does not assume or hardcode a model slug.
-
-```powershell
-$env:PERPLEXITY_MODEL = Read-Host "Model ID from npm run models"
-npm run chat -- "Explain how a transformer attends to tokens in one paragraph."
-```
-
-The chat command prints the response text. In application code, import `chatCompletion` from `./perplexity_orchestrator.js` and pass the OpenAI-compatible `messages` array. The function also forwards Chat Completions options, including `stream: true` and `stream_options: { include_usage: true }`.
-
-The OpenAI SDK retries transient 429 responses and honors a server-provided `Retry-After` interval within its retry policy. If retries are exhausted, the CLI reports the HTTP status and available retry interval without printing request credentials.
+The CLI prints the structured response JSON. Search returns 1 to 20 results (`10` by default). In application code, import `searchWeb` from `./perplexity_search.js` and pass an optional `maxResults` value.
